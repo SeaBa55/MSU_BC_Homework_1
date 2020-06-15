@@ -54,6 +54,7 @@ Horiseon - v1.4 - Made styles.css easier to read; Grouped all redundant lines of
 
 Horiseon - v1.5 - Removed classes "online-reputation-management" & "social-media-marketing" (index.html lines 45,53); Removed redundant image end tag (index.html lines 83). 
 
+Horiseon - v1.6 - Changed all the class '.' selectors for "search-engine-optimization", "online-reputation-management", & "social-media-marketing" to id '#' selectors (styles.css lines 95,104,109,115).
 
 
 - - -
