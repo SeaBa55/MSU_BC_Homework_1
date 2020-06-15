@@ -43,6 +43,7 @@ You are required to submit the following for review:
 ## Revision History
 
 Horiseon - v1.0 - Initial git commit; clone of original index.html and supporting documents.
+Horiseon - v1.1 - Made index.htm easier to read; changed title form "website" to "Horiseon".
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
