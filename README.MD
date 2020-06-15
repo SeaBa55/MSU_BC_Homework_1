@@ -62,5 +62,7 @@ Horiseon - v1.8 - Changed all the class '.' selectors for "benefit-lead", "benef
 
 Horiseon - v1.9 - Changed class "seo" to unique identifier (ID) element (index.html line 14); Changed class '.' selectors for "seo" to id '#' selectors (styles.css lines line 23).
 
+Horiseon - v2.0 - Removed ".header div ul { list-style-type: none; }" as it contributes no effect (styles.css lines 35-37);
+
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
