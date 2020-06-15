@@ -48,9 +48,11 @@ Horiseon - v1.1 - Made index.html easier to read; changed title form "website" t
 
 Horiseon - v1.2 - Fixed broken nav bar selection; Changed class="search-engine-optimization" to id tag (index.html line 37).
 
-Horiseon - v1.3 - Removed class "float-left" & "float-right" (index.html lines 38,46,54); Removed float classes (styles.css lines 62-70) and added float/ margin arguments to individual image subclasses (styles.css lines 164-177).
+Horiseon - v1.3 - Removed classes "float-left" & "float-right" (index.html lines 38,46,54); Removed float classes (styles.css lines 62-70) and added float/ margin arguments to individual image subclasses (styles.css lines 164-177).
 
 Horiseon - v1.4 - Made styles.css easier to read; Grouped all redundant lines of code into single blocks.
+
+Horiseon - v1.5 - Removed classes "online-reputation-management" & "social-media-marketing" (index.html lines 45,53); Removed redundant image end tag (index.html lines 83). 
 
 
 
