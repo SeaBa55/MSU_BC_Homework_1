@@ -43,7 +43,15 @@ You are required to submit the following for review:
 ## Revision History
 
 Horiseon - v1.0 - Initial git commit; clone of original index.html and supporting documents.
-Horiseon - v1.1 - Made index.htm easier to read; changed title form "website" to "Horiseon" (line 7).
-Horiseon - v1.2 - Fixed broken nav bar selection; Changed class=search-engine-optimization" to id tag (line 37).
+
+Horiseon - v1.1 - Made index.htm easier to read; changed title form "website" to "Horiseon" (index.html line 7).
+
+Horiseon - v1.2 - Fixed broken nav bar selection; Changed class="search-engine-optimization" to id tag (index.html line 37).
+
+Horiseon - v1.3 - Removed class "float-left" & "float-right" (index.html lines 38,46,54); Removed float classes (styles.css lines 62-70) and added float/ margin arguments to individual image subclasses (styles.css lines 164-177).
+
+
+
+
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
