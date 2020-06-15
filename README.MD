@@ -56,7 +56,9 @@ Horiseon - v1.5 - Removed classes "online-reputation-management" & "social-media
 
 Horiseon - v1.6 - Changed all the class '.' selectors for "search-engine-optimization", "online-reputation-management", & "social-media-marketing" to id '#' selectors (styles.css lines 95,104,109,115).
 
-Horiseon - v1.7 - Changed classes "benefit-lead", "benefit-brand", "benefit-cost" to unique identifier (ID) elements (lines 65,73,81);
+Horiseon - v1.7 - Changed classes "benefit-lead", "benefit-brand", "benefit-cost" to unique identifier (ID) elements (index.html lines 65,73,81);
+
+Horiseon - v1.8 - Changed all the class '.' selectors for "benefit-lead", "benefit-brand", & "benefit-cost" to id '#' selectors (styles.css lines 79,84,89).
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
